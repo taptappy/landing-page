@@ -1,0 +1,28 @@
+
+
+.container {
+    font-size: 25px;
+    line-height: 50px;
+    color: #333333;
+    background-color: #cbb391;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#header-img {
+    width: 100px;
+    padding: 20px;
+    float: left;
+    opacity: 0.5;
+}
+
+#nav-bar {
+    top: 0;
+    padding-left: 900px;
+    position: fixed;
+
+}
+
